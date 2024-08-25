@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishalyadav10
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Mern Stack
+- 👀 I’m interested in Java, Spring Boot ,Reactjs
+- 🌱 I’m currently working in TCS 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on yadavvishal825@gmail.com
 
